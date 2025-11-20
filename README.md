@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ali-m07/ali-m07/main/logo.png" alt="Ali Mansouri" />
+  <img src="assets/logo_am.svg" alt="Ali Mansouri Monogram" width="320" />
   <br />
   <a href="https://ali-m07.github.io/resume/">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
@@ -18,7 +18,7 @@
 # Ali Mansouri ⚡️
 
 <p align="center">
-  <img alt="trophy" src="https://trophy-gh.vercel.app/?username=ali-m07&theme=onedark&title=Commits,PullRequest,Experience,Organizations" />
+  <img alt="trophy" src="https://img.freepik.com/premium-vector/certificate-with-trophy-books-vector-illustration-academic-achievement-concept-design_929545-207.jpg" />
 </p>
 
 ## About Me
