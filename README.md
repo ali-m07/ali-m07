@@ -1,3 +1,8 @@
+<!-- Hero Banner -->
+<p align="center">
+  <img src="assets/banner_am.svg" alt="Ali Mansouri Hero Banner" width="100%" />
+</p>
+
 <p align="center">
   <a href="https://ali-m07.github.io/resume/">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
@@ -14,10 +19,6 @@
 </p>
 
 # Ali Mansouri ⚡️
-
-<p align="center">
-  <img alt="trophy" src="https://img.freepik.com/premium-vector/certificate-with-trophy-books-vector-illustration-academic-achievement-concept-design_929545-207.jpg" />
-</p>
 
 ## About Me
 
@@ -45,7 +46,7 @@ print(ali.futureproof("next-gen ops brain"))
 ```
 
 <p align="center">
-  <img src="https://github.com/ali-m07/ali-m07/raw/main/futures-lab.gif" alt="Scenario Lab" />
+  <img src="assets/futures_lab.svg" alt="Scenario Lab" width="80%" />
 </p>
 
 ## Core Snapshot
@@ -73,7 +74,7 @@ print(ali.futureproof("next-gen ops brain"))
 - Bodyspinner · Data & Systems Analyst (2022—2023)  
   - Co-built a custom Jira-based ticketing platform with 99% uptime  
   - Automated analytics, cutting manual reporting effort by 40%
-- Arsh · Digital Transformation Specialist (2021—2022)  
+- Shahrzad · Digital Transformation Specialist (2021—2022)  
   - Re-engineered onboarding & OKR flows → 25% productivity bump, 20% faster hiring
 - KarenCrowd · Business Evaluator (2020—2021)  
   - Raised project success rates by 40% via sharper startup evaluations
