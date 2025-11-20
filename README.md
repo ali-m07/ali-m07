@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="assets/logo_am.svg" alt="Ali Mansouri Monogram" width="320" />
-  <br />
   <a href="https://ali-m07.github.io/resume/">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
