@@ -68,7 +68,7 @@ Find more on [Google Scholar](https://scholar.google.com/citations?user=eM8iwwkA
 ## A little motion from the build log 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ali-m07/ali-m07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Ali's GitHub contributions" />
+  <img src="assets/contribution-snake.svg" width="100%" alt="Animated snake moving through Ali's GitHub contributions" />
 </p>
 
 <p align="center"><sub>Signals → scenarios → architecture → action.</sub></p>
