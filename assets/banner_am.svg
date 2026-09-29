@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
-<title id="title">Ali Mansouri — Solution Architect and Futures Studies researcher</title><desc id="desc">Editorial dark banner with architecture nodes and branching future scenarios.</desc>
+<title id="title">Ali Mansouri — Solutions Architect and Futures Studies researcher</title><desc id="desc">Editorial dark banner with architecture nodes and branching future scenarios.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#18293b"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#23d5b0"/><stop offset="1" stop-color="#8b7cf8"/></linearGradient></defs>
 <rect width="1400" height="430" rx="28" fill="url(#bg)"/>
 <g stroke="#526b7b" opacity=".22"><path d="M0 86H1400M0 172H1400M0 258H1400M0 344H1400M120 0V430M280 0V430M440 0V430M600 0V430M760 0V430M920 0V430M1080 0V430M1240 0V430"/></g>
 <path d="M68 65h65M68 65v65M1332 365h-65M1332 365v-65" fill="none" stroke="#28d6ae" stroke-width="3"/>
 <text x="80" y="95" fill="#30deb7" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="4">ALI MANSOURI / AM</text>
-<text x="80" y="175" fill="#f5f8fa" font-family="Arial,sans-serif" font-size="62" font-weight="800">SOLUTION</text>
+<text x="80" y="175" fill="#f5f8fa" font-family="Arial,sans-serif" font-size="62" font-weight="800">SOLUTIONS</text>
 <text x="80" y="245" fill="#f5f8fa" font-family="Arial,sans-serif" font-size="62" font-weight="800">ARCHITECT</text>
 <rect x="80" y="271" width="470" height="4" rx="2" fill="url(#line)"/>
 <text x="80" y="317" fill="#c7d3dc" font-family="Arial,sans-serif" font-size="25">Futures studies × systems design</text>
