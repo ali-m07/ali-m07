@@ -1,126 +1,74 @@
-<!-- Hero Banner -->
 <p align="center">
-  <img src="assets/banner_am.svg" alt="Ali Mansouri Hero Banner" width="100%" />
+  <img src="assets/banner_am.svg" width="100%" alt="Ali Mansouri — Solution Architect and Futures Studies researcher" />
 </p>
 
 <p align="center">
-  <a href="https://ali-m07.github.io/resume/">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-mansouri-a7984215b/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ali-m07">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ali--m07-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:ali.mansouri1998@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Say_Hi!-orange?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://ali-m07.github.io/resume/"><img src="https://img.shields.io/badge/RESUME-Explore-10B981?style=for-the-badge" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/ali-mansouri-a7984215b/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ali.mansouri1998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-# Ali Mansouri ⚡️
+<h1 align="center">Architecting systems for futures we can shape.</h1>
 
-## About Me
+<p align="center"><strong>Ali Mansouri</strong> · Solution Architect · Futures Studies PhD Candidate</p>
 
-PhD candidate in Futures Studies, Solution Architect by practice. I started in electrical engineering labs writing C, but found my groove where systems, people, and data collide. These days I architect infra stacks end to end—Python automation, Jira ecosystems, CI/CD, observability—and thread foresight thinking through every pipeline so businesses can move with confidence. I build bridges between future scenarios and the infrastructure that has to survive them.
-
-```python
-from datetime import datetime
-
-class AliMansouri:
-    def __init__(self):
-        self.expertise = ["python", "ci/cd", "jira", "cloud", "foresight"]
-        self.energy = "⚡"
-        self.pipeline = []
-
-    def futureproof(self, idea):
-        ticket = f"{idea}@{datetime.utcnow().isoformat()}Z"
-        self.pipeline.append(ticket)
-        return f"🚀 shipping {idea} | reliability >= 99%"
-
-    def coffee(self):
-        return "☕ strategic optimism"
-
-ali = AliMansouri()
-print(ali.futureproof("next-gen ops brain"))
-```
+I turn complex operations into **clear architectures, connected workflows, and measurable decisions**. My work sits at the intersection of enterprise systems, automation, and strategic foresight: understanding what may change, designing for what matters, and building systems that can adapt.
 
 <p align="center">
-  <img src="assets/futures_lab.svg" alt="Scenario Lab" width="80%" />
+  <img src="assets/future-map.svg" width="100%" alt="The approach: signals to scenarios to systems" />
 </p>
 
-## Core Snapshot
+## How I think about architecture
 
-- Title: Solution Architect · DevOps & Automation Engineer · System Reliability Specialist  
-- Languages: Python (primary), SQL, C legacy love, Bash (in progress)  
-- Tooling: Jira (admin & automation), GitHub Actions, BPMS, Power BI, Grafana*  
-- Cloud & Infra: Docker, Kubernetes*, Terraform*, AWS, GCP (*learning)  
-- Strengths: Process automation, CI/CD, data-driven ops, foresight strategy
+| Lens | What I do | What it enables |
+| :-- | :-- | :-- |
+| **Discover the system** | Map actors, workflows, data, constraints, and failure points | A shared picture of the real problem |
+| **Design the architecture** | Define services, integrations, ownership, observability, and change paths | Decisions teams can build and operate |
+| **Automate the flow** | Connect APIs, Jira, Python, CI/CD, and reporting | Less manual work and clearer feedback |
+| **Test against futures** | Use signals and scenarios to challenge assumptions | Systems with room to evolve |
 
-## Playground & Repos
+> **My north star:** useful architecture is as much about people and decisions as it is about technology.
 
-- `real-time-subtitle-translator`: live captioning stack (Python, Flask, WebSockets, OpenAI) for multilingual meetings  
-- `infra-blueprints`: Terraform + GitHub Actions experiments for reproducible cloud scaffolding  
-- `jira-automation-lab`: ScriptRunner + REST API playbook for workflow orchestration  
-- `future-fit-notes`: scenarios, foresight models, and automation ideas powering my LinkedIn/ResearchGate writing  
-- Always hacking on MCP/AI assistants that post, monitor, and forecast straight from my resume graph
+## Where I've put this into practice
 
-## Impact Highlights
+- **Snapp! · Systems & Automation Specialist** — workflow automation, Jira ecosystems, KPI dashboards, and operational monitoring across teams.
+- **Bodyspinner · Data & Systems Analyst** — a custom Jira-based ticketing platform and automated analytics for service operations.
+- **Shahrzad · Digital Transformation Specialist** — redesigned onboarding and OKR workflows.
+- **KarenCrowd · Business Evaluator** — used analysis and foresight to evaluate startup opportunities.
 
-- Snapp! · Systems & Automation Specialist (2023—Present)  
-  - Automated data pipelines + business workflows → 40% faster decisions  
-  - Built KPI dashboards + health monitors for real-time reliability  
-  - Scaled Jira as a services backbone, boosting inter-team efficiency by 30%
-- Bodyspinner · Data & Systems Analyst (2022—2023)  
-  - Co-built a custom Jira-based ticketing platform with 99% uptime  
-  - Automated analytics, cutting manual reporting effort by 40%
-- Shahrzad · Digital Transformation Specialist (2021—2022)  
-  - Re-engineered onboarding & OKR flows → 25% productivity bump, 20% faster hiring
-- KarenCrowd · Business Evaluator (2020—2021)  
-  - Raised project success rates by 40% via sharper startup evaluations
+## The toolkit
 
-## Research & Publications
+**Architecture & operations** · process mapping, systems integration, Jira administration and automation, BPMS, CI/CD, observability
 
-- PhD Futures Studies · University of Tehran (2024— )  
-- MBA HRM · Kharazmi University (2020—2023)  
-- BSc Electrical Engineering · Qom University of Technology (2016—2020)  
-- Current projects: Technology Mega-Trends, Digital Entrepreneurship, HR Roadmap 2035  
-- Selected works:  
-  - *Foresight of Entrepreneurial Opportunities in Human Resources in Iran* (DOI)  
-  - *Challenges in Collaboration Between Accelerators and Digital Startups in Iran* (DOI)  
-  - Books: *Understanding Entrepreneurial Failure* (2023), *The Entrepreneurial Journey* (2024), *Digital Entrepreneurship* (2024 translation)
+**Build & analyze** · Python, SQL, C, GitHub Actions, Docker, Power BI
 
-## Signature Projects
-
-- CI/CD for containerized Python apps (GitHub Actions + Docker)  
-- Terraform IaC blueprints for AWS VPC + EC2 stacks (learning track)  
-- Snapp! workflow automation: Jira + BPMS + data warehouse = 40% faster ops  
-- Bodyspinner ticketing platform: Hybrid Jira system hitting 99% uptime  
-- Arsh recruiting pipeline: OKR-driven automation; 25% uplift in performance  
-- KarenCrowd investment engine: analytics + foresight for 30% better accuracy
-
-## Languages & Mobility
-
-- English (C1) · Persian (Native) · German (A2) · French (A1 → B1 by 2026)  
-- Mobility: Open to EU (Germany, NL, France), North America, Canada · Hybrid/Remote  
-- Visa: Blue Card / Startup visa friendly · International teamwork ready
-
-## Organizations & Communities
-
-- Snapp! · Futures Lab · Infra Guild · BizOps Squad  
-- ResearchGate · Google Scholar · Agile HR communities
-
-## Stats
+**Exploring now** · Kubernetes, Terraform, AWS, GCP, Grafana
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-m07&show_icons=true&theme=tokyonight" alt="Ali Mansouri's GitHub stats" />
+  <img src="assets/panda-coding.svg" width="580" alt="A coding panda at a terminal, building better futures" />
 </p>
 
-## Keep In Touch
+## The research behind the systems
 
-- LinkedIn: https://www.linkedin.com/in/ali-mansouri-a7984215b/  
-- GitHub: https://github.com/ali-m07  
-- ResearchGate: https://www.researchgate.net/profile/Ali-Mansouri-33  
-- Google Scholar: https://scholar.google.com/citations?user=eM8iwwkAAAAJ&hl=en  
-- Email: ali.mansouri1998@gmail.com · a.mansouri@khu.ac.ir · ali.mansourii@ut.ac.ir  
-- Resume: https://ali-m07.github.io/resume/
+I'm a **Futures Studies PhD candidate at the University of Tehran**. I study technology megatrends, digital entrepreneurship, and the future of work. My earlier training spans an **MBA in HRM** and a **BSc in Electrical Engineering**.
+
+My research asks a practical question: **how can today's organizations make decisions that remain useful when tomorrow changes?** That question informs the way I design operations and technology.
+
+<details>
+<summary><strong>Selected writing and research</strong></summary>
+
+- *Foresight of Entrepreneurial Opportunities in Human Resources in Iran*
+- *Challenges in Collaboration Between Accelerators and Digital Startups in Iran*
+- Books: *Understanding Entrepreneurial Failure*, *The Entrepreneurial Journey*, and *Digital Entrepreneurship* (translation)
+
+Find more on [Google Scholar](https://scholar.google.com/citations?user=eM8iwwkAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Ali-Mansouri-33).
+
+</details>
+
+## A little motion from the build log 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-m07/ali-m07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Ali's GitHub contributions" />
+</p>
+
+<p align="center"><sub>Signals → scenarios → architecture → action.</sub></p>

@@ -1,41 +1,17 @@
-<svg width="1400" height="420" viewBox="0 0 1400 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ali Mansouri Hero Banner</title>
-  <desc id="desc">Gradient banner with AM icon, welcome text, and contact cues</desc>
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#140034" />
-      <stop offset="50%" stop-color="#36004d" />
-      <stop offset="100%" stop-color="#61009f" />
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="40%" r="70%">
-      <stop offset="0%" stop-color="#ffafcc" stop-opacity="0.8" />
-      <stop offset="70%" stop-color="#6a00ff" stop-opacity="0" />
-    </radialGradient>
-    <linearGradient id="stroke" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7bffdf" />
-      <stop offset="50%" stop-color="#55c4ff" />
-      <stop offset="100%" stop-color="#d88bff" />
-    </linearGradient>
-    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="6" />
-    </filter>
-  </defs>
-  <rect width="1400" height="420" fill="url(#bg)" rx="28" />
-  <ellipse cx="700" cy="360" rx="520" ry="140" fill="url(#glow)" opacity="0.6" />
-  <g transform="translate(620 220)">
-    <circle cx="80" cy="80" r="74" fill="#0b0f1e" stroke="#ffffff" stroke-width="4" />
-    <path d="M30 115 L58 40 L80 90 L104 40 L130 115" fill="none" stroke="rgba(123,255,223,0.35)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft)" />
-    <path d="M30 115 L58 40 L80 90 L104 40 L130 115" fill="none" stroke="url(#stroke)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M40 110 Q80 150 118 100 Q140 70 130 115" fill="none" stroke="url(#stroke)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.8" />
-  </g>
-  <text x="700" y="145" font-family="'Montserrat', 'Segoe UI', sans-serif" font-size="60" text-anchor="middle" fill="#ffffff" font-weight="600" letter-spacing="6">HELLO FUTURES</text>
-  <text x="700" y="200" font-family="'Montserrat', 'Segoe UI', sans-serif" font-size="30" text-anchor="middle" fill="#ffeb95" letter-spacing="4">ALI MANSOURI · SOLUTION ARCHITECT</text>
-  <text x="200" y="310" font-family="'Space Mono', 'Fira Code', monospace" font-size="20" fill="#ffffff">🌐 ali-m07.github.io/resume</text>
-  <text x="930" y="310" font-family="'Space Mono', 'Fira Code', monospace" font-size="20" fill="#ffffff">✉️ ali.mansouri1998@gmail.com</text>
-  <g stroke="#ffeb95" stroke-width="3" opacity="0.5">
-    <path d="M120 340 L220 340" />
-    <path d="M200 360 L300 360" />
-    <path d="M1100 340 L1200 340" />
-    <path d="M1180 360 L1280 360" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+<title id="title">Ali Mansouri — Solution Architect and Futures Studies researcher</title><desc id="desc">Editorial dark banner with architecture nodes and branching future scenarios.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#18293b"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#23d5b0"/><stop offset="1" stop-color="#8b7cf8"/></linearGradient></defs>
+<rect width="1400" height="430" rx="28" fill="url(#bg)"/>
+<g stroke="#526b7b" opacity=".22"><path d="M0 86H1400M0 172H1400M0 258H1400M0 344H1400M120 0V430M280 0V430M440 0V430M600 0V430M760 0V430M920 0V430M1080 0V430M1240 0V430"/></g>
+<path d="M68 65h65M68 65v65M1332 365h-65M1332 365v-65" fill="none" stroke="#28d6ae" stroke-width="3"/>
+<text x="80" y="95" fill="#30deb7" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="4">ALI MANSOURI / AM</text>
+<text x="80" y="175" fill="#f5f8fa" font-family="Arial,sans-serif" font-size="62" font-weight="800">SOLUTION</text>
+<text x="80" y="245" fill="#f5f8fa" font-family="Arial,sans-serif" font-size="62" font-weight="800">ARCHITECT</text>
+<rect x="80" y="271" width="470" height="4" rx="2" fill="url(#line)"/>
+<text x="80" y="317" fill="#c7d3dc" font-family="Arial,sans-serif" font-size="25">Futures studies × systems design</text>
+<text x="81" y="358" fill="#93a9b8" font-family="monospace" font-size="19">FROM SIGNALS TO SYSTEMS THAT ADAPT</text>
+<g fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round"><path d="M775 210H884L949 135H1070"/><path d="M884 210h150l74 71h132"/><path d="M949 135l80-65h130"/><path d="M1034 210h170"/></g>
+<g fill="#172c39" stroke="#32d7b5" stroke-width="3"><circle cx="775" cy="210" r="13"/><circle cx="884" cy="210" r="11"/><circle cx="949" cy="135" r="11"/><circle cx="1034" cy="210" r="11"/><circle cx="1108" cy="281" r="11"/></g>
+<g fill="#a99cfe" stroke="#a99cfe"><circle cx="1159" cy="70" r="8"/><circle cx="1204" cy="210" r="8"/><circle cx="1240" cy="281" r="8"/></g>
+<g font-family="monospace" font-size="16" fill="#9fb5c4"><text x="794" y="190">SIGNALS</text><text x="950" y="115">SCENARIOS</text><text x="1054" y="190">DECISIONS</text><text x="1132" y="320">SYSTEMS</text></g>
 </svg>
