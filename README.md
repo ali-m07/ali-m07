@@ -66,7 +66,7 @@ def my_approach(signal, constraint):
 ## Selected architecture work
 
 <p align="center">
-  <img src="assets/panda-coding.svg" width="580" alt="A panda coding in a terminal" />
+  <img src="assets/panda-coding.gif" width="580" alt="Animated panda coding in a terminal" />
 </p>
 
 - **Cloud-native infrastructure:** production Docker/Kubernetes services with Helm and automated GitHub Actions delivery.
