@@ -12,7 +12,9 @@
 
 <p align="center"><strong>Solutions Architect</strong> · Cloud-Native Systems · Enterprise AI · Strategic Foresight</p>
 
-I architect systems that solve the friction underneath a process. Over **5+ years**, I've worked from discovery and systems modeling through Python services, enterprise integrations, Kubernetes deployments, and production AI automation. My PhD work in **Futures Studies** brings a longer horizon to those decisions: build for today's constraints, while keeping tomorrow's options open.
+I am a **Solutions Architect actively exploring international relocation and migration opportunities**. I am open to a suitable job offer with visa or relocation support and willing to move for the right team, problem, and long-term opportunity. Over **5+ years**, I've worked from discovery and systems modeling through Python services, enterprise integrations, Kubernetes deployments, and production AI automation. I turn business goals and constraints into architecture that teams can build, operate, and evolve.
+
+My PhD work in **Futures Studies** adds a longer horizon to those decisions. I study technology megatrends, uncertainty, and the forces shaping future organizations, then use scenario thinking to test architectural choices before they become expensive commitments. The goal is practical: build for today's constraints while keeping tomorrow's options open.
 
 <p align="center">
   <img src="assets/future-map.svg" width="100%" alt="My approach: observe signals, model scenarios, and build adaptable systems" />
@@ -33,6 +35,22 @@ def my_approach(signal, constraint):
 | **Enterprise integration** | Jira, GitLab, Confluence, SQL systems, n8n, APIs, identity and access |
 | **AI in operations** | LLM workflows, RAG, vector databases, LangChain, document triage |
 | **Systems & foresight** | Root-cause analysis, system dynamics, scenario planning, decision pathways |
+
+## How I work as a Solutions Architect
+
+- **Discover before designing:** clarify the business outcome, users, constraints, risks, and measurable definition of success.
+- **Translate across boundaries:** connect product, engineering, security, operations, data, and leadership through shared models and explicit trade-offs.
+- **Design for change:** choose modular boundaries, integration contracts, observability, and deployment patterns that keep future options open.
+- **Make architecture executable:** turn principles into diagrams, ADRs, roadmaps, proof-of-concepts, implementation guidance, and operational ownership.
+- **Stay close to production:** validate assumptions with working services, delivery metrics, feedback loops, and post-launch learning.
+
+I am especially interested in roles where architecture sits close to **cloud platforms, distributed systems, enterprise integration, AI enablement, and digital transformation**. I can contribute across the full path from problem framing and target architecture to delivery, adoption, and continuous improvement.
+
+## Futures-oriented perspective
+
+Futures research helps me ask better architecture questions: Which signals should we monitor? Which assumptions are fragile? What happens if regulation, customer behavior, infrastructure cost, or AI capability changes faster than expected? I use horizon scanning, systems mapping, scenario planning, and backcasting to create resilient decision pathways rather than a single brittle forecast.
+
+That perspective complements engineering discipline. A future-ready architecture is not one that predicts the future perfectly; it is one that can sense change early, absorb uncertainty, and adapt without forcing the organization to start over.
 
 ## Experience
 
@@ -111,6 +129,6 @@ More on [Google Scholar](https://scholar.google.com/citations?user=eM8iwwkAAAAJ&
   <img src="assets/contribution-snake.svg" width="100%" alt="Animated snake moving through Ali's GitHub contributions" />
 </p>
 
-<p align="center">Open to international relocation and remote collaboration · <a href="https://ali-m07.github.io/resume/">Full résumé</a> · <a href="mailto:ali.mansouri1998@gmail.com">Get in touch</a></p>
+<p align="center"><strong>Open to international relocation for the right job offer</strong> · Remote collaboration welcome · <a href="https://ali-m07.github.io/resume/">Full résumé</a> · <a href="mailto:ali.mansouri1998@gmail.com">Get in touch</a></p>
 
 <p align="center"><sub>Signals → scenarios → architecture → systems that adapt.</sub></p>
